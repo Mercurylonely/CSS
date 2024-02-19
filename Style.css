@@ -1,4 +1,14 @@
 h1{
-    color: violet;
-    font-size: small;
+    color: rgb(255, 0, 255);
+    text-align: center;
+    text-decoration: underline;
+}
+button{
+    color: darkviolet;
+    background-color: aliceblue;
+}
+p{
+    color: darkblue;
+    text-align: center;
+    /* text-decoration: overline;  (text decoration juga bisa digunakan untuk menghilangkan decoration bawaan pada suatu element agar memudahkan untuk dekorasi di css menjadikan web lebih bagus dari biasanya.)*/ 
 }
